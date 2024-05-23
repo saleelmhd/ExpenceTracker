@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1006336912262",
+    "project_id": "expensenote-94a2f",
+    "storage_bucket": "expensenote-94a2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006336912262:android:037572f0bede46023fda07",
+        "android_client_info": {
+          "package_name": "com.example.expensenote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3J0piueYewq8nA5fw4zoSCqSRdIZbM4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
